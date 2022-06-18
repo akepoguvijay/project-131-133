@@ -1,0 +1,83 @@
+body
+{
+    background-image: url("backg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#desk_image
+{
+    background-color: white;
+    width: 250px;
+    border-radius: 20px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+#tv_ac
+{
+    background-color: white;
+    width: 250px;
+    border-radius: 20px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+#Bed_room
+{
+    background-color: white;
+    width: 250px;
+    border-radius: 20px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+#bottles
+{
+    background-color: white;
+    width: 250px;
+    border-radius: 20px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+#fruit_basket
+{
+    background-color: white;
+    width: 250px;
+    border-radius: 20px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+h3
+{
+    font-size: 30px;
+    margin: 20px;
+}
+
+#back_button
+{
+    float: right;
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+}
+
+h4
+{
+    background-color: snow;
+    font-size: 30px;
+    padding: 8px;
+    margin: 10px;
+}
+
+#status
+{
+    font-size: 20px;
+    margin: 10px;
+    background-color: pink;
+}
+
